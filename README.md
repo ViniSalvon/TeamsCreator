@@ -6,8 +6,8 @@ Instructions:
 - Edit input_data.py with the desired number of groups and the list of all teams.
 - Run main.py and check the results on console.
 
-Input Example: (this will sort 8 teams into 2 groups of four teams each)
-
+## Input Example:
+(this will sort 8 teams into 2 groups of four teams each)
 ```
 GROUPS_NUMBER = 2
 TEAMS_LIST = [
@@ -18,11 +18,12 @@ TEAMS_LIST = [
     'England',
     'France',
     'Gana',
-    'Haiti',
+    'Haiti'
 ]
 ```
 
-Output example: (it will be random)
+## Output Example:
+(it will be random)
 ```
 Group 1
 ['France', 'Haiti', 'Gana', 'England']
