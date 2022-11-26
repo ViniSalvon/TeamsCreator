@@ -7,7 +7,7 @@ Instructions:
 - Run main.py and check the results on console.
 
 ## Input Example:
-(this will sort 8 teams into 2 groups of four teams each)
+This will sort 8 teams into 2 groups of four teams each.
 ```
 GROUPS_NUMBER = 2
 TEAMS_LIST = [
@@ -23,7 +23,7 @@ TEAMS_LIST = [
 ```
 
 ## Output Example:
-(it will be random)
+Result will be random. This is a possible output of the input above.
 ```
 Group 1
 ['France', 'Haiti', 'Gana', 'England']
