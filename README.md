@@ -21,3 +21,13 @@ TEAMS_LIST = [
     'Haiti',
 ]
 ```
+
+Output example: (it will be random)
+```
+Group 1
+['France', 'Haiti', 'Gana', 'England']
+
+
+Group 2
+['China', 'Denmark', 'Angola', 'Brazil']
+```
