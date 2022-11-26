@@ -1,4 +1,4 @@
-# TeamsCreator
+# Group Creator
 A simple tool to sort a list of X teams into Y groups.
 
 Instructions:
