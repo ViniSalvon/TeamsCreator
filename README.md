@@ -8,16 +8,16 @@ Instructions:
 
 Input Example: (this will sort 8 teams into 2 groups of four teams each)
 
-  GROUPS_NUMBER = 2
-
-  TEAMS_LIST = [
-      'Angola',
-      'Brazil',
-      'China',
-      'Denmark',
-      'England',
-      'France',
-      'Gana',
-      'Haiti',
-  ]
-
+```
+GROUPS_NUMBER = 2
+TEAMS_LIST = [
+    'Angola',
+    'Brazil',
+    'China',
+    'Denmark',
+    'England',
+    'France',
+    'Gana',
+    'Haiti',
+]
+```
